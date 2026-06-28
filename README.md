@@ -3,7 +3,7 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [How to Create a Virtual Machine in Microsoft Azure](https://github.com/NoelMcInnes/remote-desktop)
+  - [How to Create a Virtual Machine in Microsoft Azure](https://github.com/NoelMcInnes/create-vm)
   - [How to Use Remote Desktop to Gain Access to a Different Computer](https://github.com/NoelMcInnes/remote-desktop)
   - [Cleaning Up Files and Breaking Down the Lab](https://github.com/NoelMcInnes/remote-desktop)
 
