@@ -3,7 +3,7 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/noelmcinnes/osticket-prereqs)
+  - [How to Use Remote Desktop to Access A Different Computer](https://github.com/noelmcinnes/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/noelmcinnes/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/noelmcinnes/ticket-lifecycle)
 
