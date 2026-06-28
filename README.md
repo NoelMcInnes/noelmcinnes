@@ -3,8 +3,7 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [How to Use Remote Desktop to Gain Access to a Different Computer](https://github.com/NoelMcInnes/remote-desktop)
 
 <h2>Connect with me:</h2>
 
